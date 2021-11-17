@@ -3,7 +3,7 @@
   padding: 28px 48px 56px 48px;
   display: grid;
   grid-template: auto / 1fr repeat(2, 30px);
-  grid-gap: 18px;
+  gap: 18px;
   align-items: end;
   box-sizing: border-box;
 }
