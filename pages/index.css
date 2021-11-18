@@ -43,3 +43,12 @@
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 /* end:places */
+
+/* begin:cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__heading-wrap/cover__heading-wrap.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+/* end:cover */
