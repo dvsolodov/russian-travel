@@ -7,3 +7,10 @@
   align-items: end;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    padding: 28px 48px 48px 48px;
+  }
+
+}

@@ -10,3 +10,10 @@
   align-content: center;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    gap: 14px;
+    grid-template: repeat(3, 1fr) / repeat(auto-fit, 300px);
+  }
+}
