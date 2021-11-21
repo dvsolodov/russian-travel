@@ -1,5 +1,8 @@
+/* begin:font styles */
+@import url(../vendor/fonts/Inter-3.19/Inter_Web/inter.css);
+/* end:font styles */
+
 /* begin:common styles */
-@import url(../vendor/fonts/fonts.css);
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/container/container.css);
