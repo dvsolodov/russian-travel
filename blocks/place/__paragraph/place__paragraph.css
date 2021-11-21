@@ -28,3 +28,12 @@
     line-height: 26px;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__paragraph {
+    max-width: 100%;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 0 16px;
+  }
+}

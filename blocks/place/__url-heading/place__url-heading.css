@@ -9,3 +9,11 @@
   text-align: left;
   color: #aaa;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__url {
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+  }
+}
