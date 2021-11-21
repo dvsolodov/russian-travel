@@ -11,9 +11,17 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .photo-grid {
     gap: 14px;
     grid-template: repeat(3, 1fr) / repeat(auto-fit, 300px);
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .photo-grid {
+    gap: 16px;
+    grid-template: repeat(3, 1fr) / repeat(auto-fit, 352px);
+    padding: 0 24px 88px 24px;
   }
 }
