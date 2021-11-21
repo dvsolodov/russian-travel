@@ -38,6 +38,9 @@ Break-points: 1280px, 1024px, 768px, 320px.
 * Дополнить верстку для точки перелома 300px.
 * Доработать раздел "Инструкция по использованию"
 
-[Ссылка на репозиторий проекта](https://github.com/dvsolodov/russian-travel)
+## **Ссылки**
+
+* [Ссылка на репозиторий проекта](https://github.com/dvsolodov/russian-travel)
+* [Ссылка на GitPages](https://dvsolodov.github.io/russian-travel/)
 
 
